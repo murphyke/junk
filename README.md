@@ -31,3 +31,8 @@ Sed at aliquam quam. Phasellus erat arcu, accumsan sed tristique quis, fringilla
 ## First-order junk is `tasty`
 
 Oh, yeah.
+
+## But, "what?", you ask is the _point_ of anything? (so-to-speak)
+
+You got that right.
+
